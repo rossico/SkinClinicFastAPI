@@ -1,0 +1,2 @@
+# SkinClinicFastAPI
+Assignment 1
